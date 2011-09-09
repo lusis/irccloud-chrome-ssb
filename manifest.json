@@ -1,7 +1,7 @@
 {
   "name":"IRCCloud",
   "description":"IRCCloud as a standalone application",
-  "version":"1",
+  "version":"2",
   "app":{
     "urls":[
       "*://irccloud.com/"
@@ -11,7 +11,7 @@
     }
   },
   "icons":{
-    "128":"favicon.png"
+    "128":"logo.png"
   },
   "permissions": [
     "background","notifications","unlimitedStorage"
